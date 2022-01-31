@@ -8,4 +8,4 @@ Back Tracking
     
     
 
-구조(다 이렇지는 않을 수도) -> ***for 문에 recursion call***
+예시 구조(다 이렇지는 않을 수도) -> ***for 문에 recursion call***
