@@ -1,4 +1,4 @@
-### Priority 의 min heap 을 custom 해서 품 !     
+### 내 풀이 -> Priority 의 min heap 을 custom 해서 품 !     
 -> 내가 푼 알고리즘 ㅎㅎ 만족한다 이건    
 -> 지난 시간에 리뷰한 ***dummy 까지 이용해 훨 ~ 씬 깔끔 !***    
 
