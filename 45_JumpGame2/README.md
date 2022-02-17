@@ -11,3 +11,15 @@
 => key word (Python3)  
 -> ***'nonlocal'*** 
 ![image](https://user-images.githubusercontent.com/70446214/154427447-9e8007f1-3c87-460b-9a87-0c450d52b7d9.png) 
+
+
+### c++   
+queue -> 아니 왜 덱으로도 사용     
+back , front 있어 ,, 헷갈려    
+
+### 알고리즘  
+  
+greedy를 이용 (1차원적인 bfs 라고도 칭했음 )   
+-> 다음 스텝이 연속적이라는 것을 왜 알아차리지 못했을까..    
+-> 영역을 two pointer로 접근하는 방식 !! (연속적이라 가능)   
+-> 이 포인터가 의미하는 바는 내가 알고있어야 함.   
