@@ -11,3 +11,8 @@ JumpGame2 문제와 풀이가 완전히 같았던 문제
 
 
 ### 알고리즘 
+
+해당 문제는 greedy로도 풀어낼 수 있음. -> 문제조건에 맞는 풀이 !    
+![1](https://user-images.githubusercontent.com/70446214/155178500-3553159b-a7d8-4fab-ac0d-f2d529a6aeab.png)   
+
+더 쉽고 직관적.   
