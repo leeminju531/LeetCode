@@ -43,12 +43,28 @@ counter['c'] += 1
 
 
 ### Most Voted Solution   
-1.
+### 1.python 풀이 
 ![1](https://user-images.githubusercontent.com/70446214/156511526-b861ed3a-dbd5-456c-bd6d-9733a79f56a1.png)   
 
 -> hash를 이용한 것은 같음 ! 하지만 내가 이용한 brute force한 iteration이 아닌 1회전의 iteration으로 구현되었다.    
 -> 핵심은 한번의 iteration안에서 ***Missing변수와 ,정답을 찾은 이후 hash를 조작***하여 1회전의 iteration을 살려낸 것으로 보인다.  
 
-2. Top Discussion : Here is a 10-line template that can solve most 'substring' problems     
+### 2. Top Discussion : Here is a 10-line template that can solve most 'substring' problems     
+Template 
+![template](https://user-images.githubusercontent.com/70446214/156532345-94e83296-4c3a-49b6-a2a6-8a1100386198.png)            
 
-https://leetcode.com/problems/minimum-window-substring/discuss/26808/Here-is-a-10-line-template-that-can-solve-most-'substring'-problems
+
+
+***대부분의 substring을 찾는 문제의 해법은 , hash와 two pointer 를 사용하는 것.***
+
+***while문 안에 end를 iterate 시킴***을 확인하고, ***if문 안***에 흐름을 관찰하기 -> 굳이 사후처리로 한번에 처리하지 않아도 됨.(헷갈려)
+
+
+다시 푼 풀이           
+
+![1](https://user-images.githubusercontent.com/70446214/156532831-f2ab321b-f5db-4f8d-8a13-87ef3e2a8e64.png)       
+
+알고리즘은 위 python풀이와 완전히 같다.     
+### tips        
+***hash이용시, key는 char값이면*** -> 이는 known range를 갖고있어 unordered_map보다 vector를 이용하는 것이 더 가볍고 빠르다.       
+
