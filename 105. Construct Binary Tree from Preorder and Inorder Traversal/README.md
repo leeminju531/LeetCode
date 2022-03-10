@@ -15,4 +15,5 @@
 ![3](https://user-images.githubusercontent.com/70446214/157596905-16465b1f-7f5a-443b-abb4-cf807a6f2086.png)     
 -> 리스트의 재구현이 자유롭다.    
 
-2. optional의 의미는 None 타입을 가질 수 있음을 내포해준다.   
+2. optional의 의미는 None 타입을 가질 수 있음을 내포해준다.    
+3. 반환값으로 부터 자유로운 코드 구현이 가능해 구현이 용이할 수 있다.
