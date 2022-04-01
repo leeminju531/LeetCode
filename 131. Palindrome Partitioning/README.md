@@ -12,3 +12,10 @@
 
 2. Time Complexity 계산     
 ![1](https://user-images.githubusercontent.com/70446214/160781315-97cf6289-cd1e-46b2-abf9-5df3f0928ffa.png)
+
+### python      
+![image](https://user-images.githubusercontent.com/70446214/161240776-46dc40ef-ffd7-42a0-954c-68b9669a8a2c.png)           
+
+![image](https://user-images.githubusercontent.com/70446214/161240835-238f10f9-fd10-4e19-a810-a6cc41e9df6a.png)     
+mutable 한 객체 (특히 list)는 pass by reference로 받는다.         
+주의 !!       
