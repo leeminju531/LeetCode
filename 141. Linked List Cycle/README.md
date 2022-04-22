@@ -42,7 +42,7 @@ public:
 
 ### Floyd's Cycle algorithm
 
-1. List의 순환을 찾을 수 있다.
+1. List의 ***순환 여부***를 찾을 수 있다.
 2. List의 ***순환이 시작되는 노드***를 찾을 수 있다.
 
 2의 가장 간단한 증명 이해 https://namho46.tistory.com/14
